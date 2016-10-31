@@ -1,2 +1,3 @@
-# extreme-ping-ponging
-A list of alternative versions of ping pong
+# Extreme ping pong
+A list of alternative versions of ping pong:
+
