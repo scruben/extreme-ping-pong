@@ -38,6 +38,14 @@ A list of alternative versions of ping pong:
 ##Fronpong forever alone
 (hard) 
 
+##True volley ping pong
+4 or more players like real beach volley
+(hard) 
+
+##Ping pong rondo
+Like a football rondo, the ball can not hit the ground
+(easy) 
+
 ##Liechtenstein
 
 ##Unnamed varieties
